@@ -2,6 +2,9 @@
 
 Inspired by my colleague, who is playing the battleship game in FB messenger every night, so I come up with an idea to build such an AI program that can boost our wining rate. :)
 
+如果你有微信的话，欢迎关注我的微信公众号： 猫猫的AI游乐园  会不定期送上有趣的资讯和AI实验互动 :) 
+-> 2018.04.13 更新： 给这公众号发任意消息可以与这个battleship AI进行对战 
+
 References:
    1) Simple battleship tensorflow tutoriale http://efavdb.com/battleship/
    2) AlphaZero Algorithm for Gomoku, tensorflow version written by me :), where I reuse the network layer here. https://github.com/Kelvin-Zhong/AlphaZero_Gomoku/blob/master/policy_value_net_tensorflow.py
