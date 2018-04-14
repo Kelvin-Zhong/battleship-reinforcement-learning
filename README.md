@@ -6,6 +6,8 @@ References:
    Simple battleship tensorflow tutoriale http://efavdb.com/battleship/
    AlphaZero Algorithm for Gomoku, tensorflow version written by me :), where I reuse the network layer here. https://github.com/Kelvin-Zhong/AlphaZero_Gomoku/blob/master/policy_value_net_tensorflow.py
    
+Demo:
+![5x5 board with two 1x2 ships](https://github.com/Kelvin-Zhong/battleship-reinforcement-learning/blob/master/ai_demo.gif)
 
 Develop Enviroment:
 * Python 3.6
