@@ -10,6 +10,8 @@ Demo: (5x5 board with two 1x2 ships)
 
 ![5x5 board with two 1x2 ships](https://github.com/Kelvin-Zhong/battleship-reinforcement-learning/blob/master/ai_demo.gif)
 
+You can see that the AI learn to hit the dialog line which can maximize its hitting rate.
+
 Develop Enviroment:
 * Python 3.6
 * Tensorflow 1.7.0
