@@ -46,8 +46,14 @@ I want to deploy the AI program to my server so my friends can play against my A
 ## How do you find a good rewarding function ? I know this is the hard
 -> I just simply reuse the rewarding function from the first reference. LOL
 
-## Additional thinking:
+## Well, how long did you take to train the model ? And what's the performance ?
+  1) For the 5x5 board setup, it takes me half an hour for self-playing 10000 games, and the avg #move stablized at 14, compared to 20 at the beginning.
+  2) For the 10x10 board setup, still training...
+
+## Additional note/thinking:
 -> One of my colleague ask if we can build a good algorithm simply based on DFS but not Deep Learning ? 
     
-   Hmm, I still need to think about it, would like to hear you guys' thoughts.
+   Hmm, I still need to think about it, would like to hear you guys' thoughts. (looks like a good interview question for me to ask the candidates)
+   
+-> The training time GPU/CPU are similar (based on 5x5 board setup), but sometimes CPU will stuck on computation, not sure why, so eventually I train the network on my AWS GPU instance.
 
