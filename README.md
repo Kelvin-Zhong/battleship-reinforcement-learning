@@ -28,6 +28,7 @@ I want to deploy the AI program to my server so my friends can play against my A
 -> Board size: 5 x 5 
 
 -> Ships: A. 1x2, B. 1x2
+
   You can change whatever you want by changing the `GameConfig.py` file.
 
 ## What's your network structure ?
