@@ -5,6 +5,7 @@ Inspired by my colleague, who is playing the battleship game in FB messenger eve
 如果你有微信的话，欢迎关注我的微信公众号： `猫猫的AI游乐园`  会不定期送上有趣的资讯和AI实验互动 :) 
 
 -> 2018.04.13 更新： 给这公众号发任意消息可以与这个battleship AI进行对战 
+-> 2018.04.14 对这个project的中文简介： https://mp.weixin.qq.com/s/QBMsbrj6bJzXJjU_kRVw-A
 
 References:
    1) Simple battleship tensorflow tutoriale http://efavdb.com/battleship/
